@@ -1,0 +1,6 @@
+﻿  task1.cpp
+C:\Users\357\Desktop\Лр19 Основи програмування\task1\task1\task1.cpp(17,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\357\Desktop\Лр19 Основи програмування\task1\task1\task1.cpp(17,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Users\357\Desktop\Лр19 Основи програмування\task1\task1\task1.cpp(20,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\357\Desktop\Лр19 Основи програмування\task1\task1\task1.cpp(20,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+  task1.vcxproj -> C:\Users\357\Desktop\Лр19 Основи програмування\task1\x64\Debug\task1.exe
